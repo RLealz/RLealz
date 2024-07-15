@@ -4,4 +4,4 @@
 
 ℹ️ Check out my essential links and social networks by clicking the link below.
 
-👉 My Beacons 👈
+[👉 My Beacons 👈](https://beacons.ai/rleal.business.dev)
