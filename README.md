@@ -14,15 +14,15 @@
 
 Here are some of the projects I’m working on or have contributed to. Feel free to explore, contribute, or use them in your own projects.
 
-1. **[Project Name](GitHub Link)**
-   - Description: A brief summary of what this project is about.
-   - Key Features: List a few key features or functionalities.
-   - Technologies: Mention the main technologies used in the project.
+1. **[bitcoinwsfl](https://github.com/RLealz/bitcoinwsfl)**
+   - Description: A project focused on WebSocket-based Bitcoin interactions.
+   - Key Features: Real-time Bitcoin data streaming.
+   - Technologies: WebSockets, Bitcoin API.
 
-2. **[Project Name](GitHub Link)**
-   - Description: A brief summary of what this project is about.
-   - Key Features: List a few key features or functionalities.
-   - Technologies: Mention the main technologies used in the project.
+2. **[papori-mvp-03](https://github.com/RLealz/papori-mvp-03)**
+   - Description: A Christmas Theme Chatbot custom designed. 
+   - Key Features: Web application MVP.
+   - Technologies: React, Node.js, MongoDB.
 
 ---
 
@@ -30,14 +30,29 @@ Here are some of the projects I’m working on or have contributed to. Feel free
 
 Here are some of the repositories I've worked on or maintain. You can explore each one for detailed information.
 
-1. **[Repository Name 1](GitHub Link)**
-   - Description: A brief summary of the repository.
-   - Technologies: Mention the main technologies used in the repo.
-   - Installation: Steps to set up the project (if applicable).
+1. **[generative-ai-for-beginners](https://github.com/RLealz/generative-ai-for-beginners)**
+   - Description: A 21-lesson series to get started with Generative AI.
+   - Forked from: [microsoft/generative-ai-for-beginners](https://microsoft.github.io/generative-ai-for-beginners)
+   - Technologies: Python, AI Models.
 
-2. **[Repository Name 2](GitHub Link)**
-   - Description: A brief summary of the repository.
-   - Technologies: Mention the main technologies used in the repo.
-   - Installation: Steps to set up the project (if applicable).
+2. **[PythonScripts](https://github.com/RLealz/PythonScripts)**
+   - Description: A collection of Python scripts for various tasks.
+   - Technologies: Python.
 
+3. **[multi-agent-ai-frameworks](https://github.com/RLealz/multi-agent-ai-frameworks)**
+   - Description: A framework for developing multi-agent AI systems.
+   - Technologies: Python, AI, Multi-agent systems.
+
+4. **[SUASS](https://github.com/RLealz/SUASS)**
+   - Description: One-stop resource for all things offensive security.
+   - Technologies: Offensive security tools, Linux.
+
+5. **[bestbooks](https://github.com/RLealz/bestbooks)**
+   - Description: A repository for collecting and sharing the best books.
+   - Technologies: Python, Data management.
+
+6. **[awesome-ai-agents](https://github.com/RLealz/awesome-ai-agents)**
+   - Description: A curated list of AI autonomous agents.
+   - Technologies: AI, Autonomous agents.
+   
 ---
