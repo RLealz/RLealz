@@ -32,7 +32,6 @@ Here are some of the repositories I've worked on or maintain. You can explore ea
 
 1. **[generative-ai-for-beginners](https://github.com/RLealz/generative-ai-for-beginners)**
    - Description: A 21-lesson series to get started with Generative AI.
-   - Forked from: [microsoft/generative-ai-for-beginners](https://microsoft.github.io/generative-ai-for-beginners)
    - Technologies: Python, AI Models.
 
 2. **[PythonScripts](https://github.com/RLealz/PythonScripts)**
