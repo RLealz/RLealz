@@ -15,14 +15,19 @@
 Here are some of the projects I’m working on or have contributed to. Feel free to explore, contribute, or use them in your own projects.
 
 1. **[bitcoinwsfl](https://github.com/RLealz/bitcoinwsfl)** (PUBLIC)
-   - Description: A project focused on WebSocket-based Bitcoin interactions.
+   - Description: A project focused on the Accessibility of a Bitcoin Website.
    - Key Features: Real-time Bitcoin data streaming.
    - Technologies: WebSockets, Bitcoin API.
 
 2. **[papori-mvp-03](https://github.com/RLealz/papori-mvp-03)** (PRIVATE)
-   - Description: A Christmas Theme Chatbot custom designed. 
+   - Description: A Christmas Theme Chatbot custom-designed. 
    - Key Features: Web application MVP.
    - Technologies: React, Node.js, MongoDB.
+  
+3. **[PowerShell Command & Control]([https://github.com/RLealz/papori-mvp-03](https://github.com/RLealz/powershell-command-control))** (PRIVATE)
+   - Description: A modern web-based terminal interface that bridges natural language commands with PowerShell execution through AI-powered translation.. 
+   - Key Features: Web application MVP.
+   - Technologies: React, Vite, Tailwind, Typescript.
 
 ---
 
