@@ -19,12 +19,7 @@ Here are some of the projects I’m working on or have contributed to. Feel free
    - Key Features: Real-time Bitcoin data streaming.
    - Technologies: WebSockets, Bitcoin API.
 
-2. **[papori-mvp-03](https://github.com/RLealz/papori-mvp-03)** (PRIVATE)
-   - Description: A Christmas Theme Chatbot custom-designed. 
-   - Key Features: Web application MVP.
-   - Technologies: React, Node.js, MongoDB.
-  
-3. **[PowerShell Command & Control](https://github.com/RLealz/powershell-command-control)** (PRIVATE)
+2. **[PowerShell Command & Control](https://github.com/RLealz/powershell-command-control)** (PRIVATE)
    - Description: A modern web-based terminal interface that bridges natural language commands with PowerShell execution through AI-powered translation.. 
    - Key Features: Web application MVP.
    - Technologies: React, Vite, Tailwind, Typescript.
