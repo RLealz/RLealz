@@ -12,9 +12,9 @@
 
 I'm a passionate developer and security enthusiast with a focus on **Web3** and **CyberSecurity**. My goal is to build secure, decentralized applications and contribute to a safer digital world. This GitHub profile is where I gather, publish, and display everything I create and find interesting in these fields.
 
-*   🌍 I'm based in Portugal.
-*   🚀 I'm currently working on PoodleIT & ML/AI Space.
-*   🤝 I'm open to collaborating on projects related to AI/ML, Red Team, LLM Security and Web3 Security.
+*   🌍 I'm based in [Your Location]
+*   🚀 I'm currently working on [Your Current Project or Interest]
+*   🤝 I'm open to collaborating on projects related to [Your Collaboration Interests, e.g., Offensive Security, dApps]
 *   💬 Ask me about anything, I am happy to help!
 
 🧰 Feel free to fork my repositories, clone them, and make them your own. After all, sharing is caring!
@@ -65,6 +65,17 @@ Here are some of the projects I’m working on or have contributed to.
     -   **Key Features:** Web application MVP for intuitive server/machine management.
     -   **Technologies:** React, Vite, Tailwind, Typescript.
 
+3.  **[DoutorBytesNext](https://github.com/DoutorBytes/DoutorBytesNext)** (PUBLIC)
+    -   **Description:** The official online presence for DoutorBytes, a computer repair shop in Lisbon. The platform provides service information, appointment booking, and technical support.
+    -   **Key Features:** Service details, appointment scheduling, AI-powered symptom analysis.
+    -   **Technologies:** Next.js, React, TypeScript, Node.js, Express.js, Python, PostgreSQL, Tailwind CSS.
+
+4.  **[Federação Mundial das Línguas Gestuais](#)** (PUBLIC)
+    -   **Description:** A project dedicated to promoting accessibility, education, and intercultural understanding for the global deaf community, connecting the world through sign language.
+    -   **Key Features:** Unification and preservation of sign languages, accessibility resources (WCAG 2.1), community-driven platform.
+    -   **Technologies:** React.js, HTML5, CSS3, Node.js, Python, MongoDB.
+
+
 ---
 
 ## 🗂️ Other Git Repositories
@@ -99,4 +110,5 @@ I believe in the power of open source and collaboration. If you have an idea, a 
 2.  Create your **Feature Branch** (`git checkout -b feature/AmazingFeature`).
 3.  **Commit** your Changes (`git commit -m 'Add some AmazingFeature'`).
 4.  **Push** to the Branch (`git push origin feature/AmazingFeature`).
-5.  Open a **Pull Request**.```
+5.  Open a **Pull Request**.
+```
