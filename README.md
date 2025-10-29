@@ -1,57 +1,102 @@
-# Welcome to My GitHub
+# Welcome to My GitHub Profile
 
-👋 This is my GitHub, here is where I gather, publish, and display everything related to Web3 and CyberSecurity that I create and come across.
-
-🧰 Feel free to fork it, clone it, and make it your own. After all, Sharing is Caring.
-
-ℹ️ Check out my essential links and social networks by clicking the link below.
-
-[👉 My Beacons 👈](https://beacons.ai/ricardo_leal_)
+<p align="center">
+  <a href="https://beacons.ai/ricardo_leal_">
+    <img src="https://img.shields.io/badge/Beacons-My%20Essential%20Links-blue?style=for-the-badge&logo=beacon" alt="Beacons Link"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 Projects
+### 👋 About Me
 
-Here are some of the projects I’m working on or have contributed to. Feel free to explore, contribute, or use them in your own projects.
+I'm a passionate developer and security enthusiast with a focus on **Web3** and **CyberSecurity**. My goal is to build secure, decentralized applications and contribute to a safer digital world. This GitHub profile is where I gather, publish, and display everything I create and find interesting in these fields.
 
-1. **[bitcoinwsfl](https://github.com/RLealz/bitcoinwsfl)** (PUBLIC)
-   - Description: A project focused on the Accessibility of a Bitcoin Website.
-   - Key Features: Real-time Bitcoin data streaming.
-   - Technologies: WebSockets, Bitcoin API.
+*   🌍 I'm based in Portugal.
+*   🚀 I'm currently working on PoodleIT & ML/AI Space.
+*   🤝 I'm open to collaborating on projects related to AI/ML, Red Team, LLM Security and Web3 Security.
+*   💬 Ask me about anything, I am happy to help!
 
-2. **[PowerShell Command & Control](https://github.com/RLealz/powershell-command-control)** (PRIVATE)
-   - Description: A modern web-based terminal interface that bridges natural language commands with PowerShell execution through AI-powered translation.. 
-   - Key Features: Web application MVP.
-   - Technologies: React, Vite, Tailwind, Typescript.
+🧰 Feel free to fork my repositories, clone them, and make them your own. After all, sharing is caring!
 
 ---
 
-## 🗂️ Git Repositories
+### 🛠️ My Tech Stack & Skills
 
-Here are some of the repositories I've worked on or maintain. You can explore each one for detailed information.
+Here are some of the technologies and tools I'm proficient in:
 
-1. **[generative-ai-for-beginners](https://github.com/RLealz/generative-ai-for-beginners)**
-   - Description: A 21-lesson series to get started with Generative AI.
-   - Technologies: Python, AI Models.
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/vitejs/vitejs-icon.svg" alt="vite" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+</p>
 
-2. **[PythonScripts](https://github.com/RLealz/PythonScripts)**
-   - Description: A collection of Python scripts for various tasks.
-   - Technologies: Python.
-
-3. **[multi-agent-ai-frameworks](https://github.com/RLealz/multi-agent-ai-frameworks)**
-   - Description: A framework for developing multi-agent AI systems.
-   - Technologies: Python, AI, Multi-agent systems.
-
-4. **[SUASS](https://github.com/RLealz/SUASS)**
-   - Description: One-stop resource for all things offensive security.
-   - Technologies: Offensive security tools, Linux.
-
-5. **[bestbooks](https://github.com/RLealz/bestbooks)**
-   - Description: A repository for collecting and sharing the best books.
-   - Technologies: Python, Data management.
-
-6. **[awesome-ai-agents](https://github.com/RLealz/awesome-ai-agents)**
-   - Description: A curated list of AI autonomous agents.
-   - Technologies: AI, Autonomous agents.
-   
 ---
+
+## 🚀 Featured Projects
+
+Here are some of the projects I’m working on or have contributed to.
+
+1.  **[bitcoinwsfl](https://github.com/RLealz/bitcoinwsfl)** (PUBLIC)
+    -   **Description:** A project focused on improving the accessibility of a Bitcoin Website by providing data in a more direct and real-time manner.
+    -   **Key Features:** Real-time Bitcoin data streaming.
+    -   **Technologies:** WebSockets, Bitcoin API.
+
+2.  **[PowerShell Command & Control](https://github.com/RLealz/powershell-command-control)** (PRIVATE)
+    -   **Description:** A modern web-based terminal interface that bridges the gap between human language and complex machine commands. It translates natural language into executable PowerShell scripts through AI.
+    -   **Key Features:** Web application MVP for intuitive server/machine management.
+    -   **Technologies:** React, Vite, Tailwind, Typescript.
+
+---
+
+## 🗂️ Other Git Repositories
+
+Here are some other repositories I've worked on or maintain.
+
+1.  **[generative-ai-for-beginners](https://github.com/RLealz/generative-ai-for-beginners)**
+    -   A 21-lesson series from Microsoft designed to provide a comprehensive introduction to Generative AI.
+
+2.  **[PythonScripts](https://github.com/RLealz/PythonScripts)**
+    -   A personal collection of Python scripts created for various automation, data processing, and security-related tasks.
+
+3.  **[multi-agent-ai-frameworks](https://github.com/RLealz/multi-agent-ai-frameworks)**
+    -   A framework for exploring and developing sophisticated multi-agent AI systems, where multiple agents collaborate to solve complex problems.
+
+4.  **[SUASS](https://github.com/RLealz/SUASS)**
+    -   A curated, one-stop resource for all things related to offensive security, including tools, techniques, and methodologies.
+
+5.  **[bestbooks](https://github.com/RLealz/bestbooks)**
+    -   A repository for collecting and sharing a curated list of the best books on technology, security, and personal development.
+
+6.  **[awesome-ai-agents](https://github.com/RLealz/awesome-ai-agents)**
+    -   A handpicked list of noteworthy AI autonomous agents and frameworks that are pushing the boundaries of artificial intelligence.
+
+---
+
+## 🤝 Contributing
+
+I believe in the power of open source and collaboration. If you have an idea, a bug fix, or a suggestion for improvement on any of my public repositories, please feel free to open an issue or submit a pull request. All contributions are welcome!
+
+1.  **Fork** the project.
+2.  Create your **Feature Branch** (`git checkout -b feature/AmazingFeature`).
+3.  **Commit** your Changes (`git commit -m 'Add some AmazingFeature'`).
+4.  **Push** to the Branch (`git push origin feature/AmazingFeature`).
+5.  Open a **Pull Request**.```
