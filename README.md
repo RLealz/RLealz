@@ -10,11 +10,11 @@
 
 ### 👋 About Me
 
-I'm a passionate developer and security enthusiast with a focus on **Web3** and **CyberSecurity**. My goal is to build secure, decentralized applications and contribute to a safer digital world. This GitHub profile is where I gather, publish, and display everything I create and find interesting in these fields.
+I'm a passionate developer and security enthusiast with a focus on **AI**, **Web3**, and **CyberSecurity**. My goal is to build secure, decentralized applications and contribute to a safer digital world. This GitHub profile is where I gather, publish, and display everything I create and find interesting in these fields.
 
-*   🌍 I'm based in [Your Location]
-*   🚀 I'm currently working on [Your Current Project or Interest]
-*   🤝 I'm open to collaborating on projects related to [Your Collaboration Interests, e.g., Offensive Security, dApps]
+*   🌍 I'm based in Portugal
+*   🚀 I'm currently working on Cybersecurity & LLM Security.
+*   🤝 I'm open to collaborating on projects related to Offensive Security, dApps, and LLM Projects.
 *   💬 Ask me about anything, I am happy to help!
 
 🧰 Feel free to fork my repositories, clone them, and make them your own. After all, sharing is caring!
