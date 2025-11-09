@@ -70,7 +70,7 @@ Here are some of the projects I’m working on or have contributed to.
     -   **Key Features:** Service details, appointment scheduling, AI-powered symptom analysis.
     -   **Technologies:** Next.js, React, TypeScript, Node.js, Express.js, Python, PostgreSQL, Tailwind CSS.
 
-4.  **[Federação Mundial das Línguas Gestuais](https://github.com/RLealz/fmlg)** (Private)
+4.  **[Federação Mundial das Línguas Gestuais](https://github.com/RLealz/fmlg)** (PRIVATE)
     -   **Description:** A project dedicated to promoting accessibility, education, and intercultural understanding for the global deaf community, connecting the world through sign language.
     -   **Key Features:** Unification and preservation of sign languages, accessibility resources (WCAG 2.1), community-driven platform.
     -   **Technologies:** React.js, HTML5, CSS3, Node.js, Python, MongoDB.
