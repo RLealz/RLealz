@@ -55,7 +55,7 @@ Here are some of the technologies and tools I'm proficient in:
 
 Here are some of the projects I’m working on or have contributed to.
 
-1.  **[bitcoinwsfl](https://github.com/RLealz/bitcoinwsfl)** (PUBLIC)
+1.  **[bitcoinwsfl](https://github.com/RLealz/BitcoinWFSL)** (PUBLIC)
     -   **Description:** A project focused on improving the accessibility of a Bitcoin Website by providing data in a more direct and real-time manner.
     -   **Key Features:** Real-time Bitcoin data streaming.
     -   **Technologies:** WebSockets, Bitcoin API.
